@@ -24,8 +24,6 @@ function deleteDigit(n) {
   return max;
 }
 
-console.log(deleteDigit(342));
-
 module.exports = {
   deleteDigit,
 };
